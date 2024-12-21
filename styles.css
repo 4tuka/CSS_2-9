@@ -1,0 +1,228 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.first {
+    padding: 108px 157.063px 108.662px 157px;
+}
+
+
+.second {
+    padding: 96px;
+    background: #E8EEFF;
+}
+
+
+.beautiful{
+    color: #181D27;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 80px;
+    max-width: 800px;
+    width: 100%;
+    margin-left: 290px;
+    text-align: center;
+}
+
+
+.analytics {
+    color: #05F;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 80px;
+}
+
+
+.smarter {
+    color: #6941C6;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 80px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+
+
+.power {
+    margin-left: 418px;
+    width: 650px;
+    text-align: center;
+    margin-top: 23px;
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 71px;
+}
+
+
+.images {
+   text-align: center;
+}
+
+.first_div {
+    background: #FFFFFF;
+    text-align: center;
+    width: 368px;
+    border-radius: 8px;
+    background: #FFF;
+    padding: 16px;
+    display: inline-block;
+}
+
+.share {
+    color: #181D27;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px; 
+    margin-bottom: 7.5px;
+    color: #181D27;
+    font-weight: 600;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.whether {
+    max-width: 364px;
+    text-align: center;
+    margin: auto;
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.sec_div {
+    background: #FFFFFF;
+    text-align: center;
+    width: 449px;
+    border-radius: 8px;
+    background: #FFF;
+    padding: 16px;
+    display: inline-block;
+    margin-left: 31px;
+    margin-top: 63px
+}
+
+.four_div {
+    background: #FFFFFF;
+    text-align: center;
+    width: 368px;
+    border-radius: 8px;
+    background: #FFF;
+    padding: 16px;
+    display: inline-block;
+    margin-left: 31px;
+}
+
+
+.third_div {
+    background-color: #53389E;
+    color: #FFF;
+    max-width: 1216px;
+    width: 100%;
+    border-radius: var(--radius-4xl, 24px);
+}
+
+
+.fourth_div {
+    padding: 105px 64px;
+    background: url(./Image\ \(1\).png) lightgray 50% / cover no-repeat;
+}
+
+
+.give {
+    font-size: var(--Font-size-display-md, 36px);
+    font-weight: 600;
+    line-height: var(--Line-height-display-md, 44px); 
+    margin-bottom: 19px;
+}
+
+.join {
+    line-height: var(--Line-height-display-md, 44px); 
+    font-size: var(--Font-size-text-xl, 20px);
+    font-weight: 400;
+    margin-bottom: 47px;
+}
+
+.learn {
+    padding: 12px 18px;
+    border-radius: var(--radius-md, 8px);
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+}
+
+.get {
+    padding: 12px 18px;
+    align-items: center;
+    margin-left: 12px;
+    border-radius: var(--radius-md, 8px);
+    border: 2px solid #FFF;
+    background: #7F56D9;
+    color: #FFF;
+}
+
+
+
+#footer-container {
+    border-radius: var(--radius-4xl, 24px);
+    background: #53389E;
+    max-width: 1216px;
+    margin: 0 auto;
+    margin-top: 63px;
+    background-image: url(./Image\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 400px;
+}
+
+#Give {
+    display: inline-block;
+    color: #FFF;
+
+    font-family: var(--Font-family-font-family-display, Inter);
+    font-size: var(--Font-size-display-md, 36px);
+}
+
+#ss {
+    text-align: start;
+    padding: 41px 64px;
+    display: inline-block;
+}
+
+#Join {
+    color: #E9D7FE;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-xl, 20px);
+    margin-top: 19px;
+}
+
+#learn {
+    padding: var(--spacing-lg, 12px) 18px;
+    border-radius: var(--radius-md, 8px);
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+
+}
+
+#get {
+    padding: 12px 18px;
+    border-radius: var(--radius-md, 8px);
+    border: 2px solid #FFF;
+    background: #7F56D9;
+    margin-left: 12px;
+    color: #FFF;
+}
+#button {
+    margin-top: 48px;
+}
+#dd {
+    vertical-align: middle;
+    display: inline-block;
+    width: 630px;
+}
+
